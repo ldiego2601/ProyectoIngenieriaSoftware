@@ -33,6 +33,9 @@ Comentarios/Problemas encontrados:
 Lecciones aprendidas:
 
 Completado?
-- [ ] Diseño de la base de datos
-- [ ] Implementación del diseño de la base de datos en MSSQL
+- [x] Diseño de la base de datos
+- [x] Implementación del diseño de la base de datos en MSSQL
 - [ ] Creación SP's primera iteración
+
+Horas invertidas:
+3 horas 20 minutos
