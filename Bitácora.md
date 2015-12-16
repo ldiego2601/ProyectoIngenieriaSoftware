@@ -2,7 +2,7 @@ Bitácora individual
 
 Estudiante: Luis Diego Fonseca Navarro.
 
-Semana 3: 15/12/2015
+**Semana 3: 15/12/2015**
 Actividades:
 - Versión inicial de prueba webservice en Node.js
 - Conexión de Node.js a MSSQL
@@ -21,3 +21,18 @@ Completado?
 
 Horas invertidas:
 8
+
+**Semana 3: 16/12/2015**
+Actividades:
+- Diseño de la base de datos
+- Implementación del diseño de la base de datos en MSSQL
+- Creación SP's primera iteración
+
+Comentarios/Problemas encontrados:
+
+Lecciones aprendidas:
+
+Completado?
+- [ ] Diseño de la base de datos
+- [ ] Implementación del diseño de la base de datos en MSSQL
+- [ ] Creación SP's primera iteración
