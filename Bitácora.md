@@ -47,7 +47,8 @@ Actividades:
 - Creación SP's primera iteración
 
 Comentarios/Problemas encontrados:
-La adición de nuevas rutas en el web service dañan rutas anteriores.(archivos independientes de rutas)
+- La adición de nuevas rutas en el web service dañan rutas anteriores.(archivos independientes de rutas)
+- Problemas al ejecutar un POST o PUT desde la página web. El ip del request tenía más caracteres que el campo Ip en la bitácora de eventos de la base de datos.
 
 Lecciones aprendidas:
 
@@ -57,4 +58,4 @@ Completado?
   - Creación SP's de sedes y sus rutas correspondientes en el webservice
 
 Horas invertidas:
-30 minutos
+2 horas 10 minutos
