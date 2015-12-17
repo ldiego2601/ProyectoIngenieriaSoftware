@@ -36,6 +36,7 @@ Completado?
 - [x] Diseño de la base de datos
 - [x] Implementación del diseño de la base de datos en MSSQL
 - [ ] Creación SP's primera iteración
+  - Creación SP's de planes de estudios y sus rutas correspondientes en el webservice
 
 Horas invertidas:
 9 horas 20 minutos
