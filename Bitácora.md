@@ -38,4 +38,4 @@ Completado?
 - [ ] Creación SP's primera iteración
 
 Horas invertidas:
-3 horas 20 minutos
+9 horas 20 minutos
