@@ -41,3 +41,20 @@ Completado?
 
 Horas invertidas:
 10 horas 20 minutos
+
+**Semana 3: 17/12/2015**
+Actividades:
+- Creación SP's primera iteración
+
+Comentarios/Problemas encontrados:
+La adición de nuevas rutas en el web service dañan rutas anteriores.(archivos independientes de rutas)
+
+Lecciones aprendidas:
+
+Completado?
+- [ ] Creación SP's primera iteración
+  - Creación SP's de planes de estudios y sus rutas correspondientes en el webservice
+  - Creación SP's de sedes y sus rutas correspondientes en el webservice
+
+Horas invertidas:
+
