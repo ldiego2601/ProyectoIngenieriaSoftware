@@ -57,6 +57,7 @@ Completado?
   - Creación SP's de planes de estudios y sus rutas correspondientes en el webservice
   - Creación SP's de sedes y sus rutas correspondientes en el webservice
   - Creación SP's de jornadas laborales y sus rutas correspondientes en el webservice
+  - Creación SP's de cursos y sus rutas correspondientes en el webservice
 
 Horas invertidas:
-3 horas 40 minutos
+5 horas 30 minutos
