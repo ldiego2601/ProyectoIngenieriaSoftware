@@ -56,6 +56,7 @@ Completado?
 - [ ] Creación SP's primera iteración
   - Creación SP's de planes de estudios y sus rutas correspondientes en el webservice
   - Creación SP's de sedes y sus rutas correspondientes en el webservice
+  - Creación SP's de jornadas laborales y sus rutas correspondientes en el webservice
 
 Horas invertidas:
-2 horas 10 minutos
+3 horas 40 minutos
