@@ -57,4 +57,4 @@ Completado?
   - Creación SP's de sedes y sus rutas correspondientes en el webservice
 
 Horas invertidas:
-
+30 minutos
